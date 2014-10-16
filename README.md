@@ -1,4 +1,8 @@
-Best-Practise
+HTML CSS JavaScript Best Practices
 =============
 
-HTML/CSS/JavaScript Best Practises
+HTML
+
+CSS
+
+JavaScript
